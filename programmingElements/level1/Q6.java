@@ -1,5 +1,5 @@
 public class Q6 {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int fee = 125000;
         int discountPercent = 10;
 
